@@ -1,0 +1,11 @@
+APP_NAME=Legion AI Sales
+
+OPENAI_API_KEY=YOUR_OPENAI_KEY
+
+DATABASE_URL=postgresql://postgres:password@db:5432/legion_ai
+
+REDIS_URL=redis://redis:6379
+
+SECRET_KEY=SUPER_SECRET_KEY
+
+ACCESS_TOKEN_EXPIRE_MINUTES=1440
